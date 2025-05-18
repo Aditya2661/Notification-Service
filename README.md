@@ -173,6 +173,4 @@ migrations/                # Knex migration files
 * [Nodemailer](https://nodemailer.com/)
 * [Twilio SMS API](https://www.twilio.com/docs/sms)
 
----
 
-*License: This project is provided for educational and demonstration purposes.*
